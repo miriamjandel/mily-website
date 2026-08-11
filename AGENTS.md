@@ -48,9 +48,12 @@ There is also a separate running page:
 
 The running page is for deeper RunWithMily content such as current focus, upcoming races and running bucket list ideas.
 
-Images are stored in:
+Images are stored by page or site area:
 
-`images/`
+- `images/main/` for homepage images
+- `images/running/` for RunWithMily page images and running-specific media
+
+When adding new media, keep it in the folder for the page or section that owns it.
 
 ## Design direction
 

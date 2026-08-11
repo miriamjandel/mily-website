@@ -160,7 +160,7 @@ a {
   bottom: 64px;
   width: min(40%, 500px);
   border-radius: 34px;
-  background: url("images/Mily_work.jpg") center center / cover no-repeat;
+  background: url("images/main/Mily_work.jpg") center center / cover no-repeat;
 }
 
 .work::after {
@@ -190,7 +190,7 @@ a {
   bottom: 64px;
   width: min(40%, 500px);
   border-radius: 34px;
-  background: url("images/Mily_running.jpg") center top / cover no-repeat;
+  background: url("images/main/Mily_running.jpg") center top / cover no-repeat;
 }
 
 .running::after {
@@ -494,7 +494,7 @@ a {
   border-radius: 36px;
   background:
     linear-gradient(180deg, rgba(242, 231, 216, 0.08), rgba(242, 231, 216, 0.4)),
-    url("images/Mily_running.jpg") center top / cover no-repeat;
+    url("images/running/Mily_running2.jpg") center top / cover no-repeat;
 }
 
 .run-section {
