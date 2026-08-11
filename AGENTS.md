@@ -32,7 +32,7 @@ Prefer the simplest solution that works.
 
 ## Current structure
 
-The website is currently a one-page site with:
+The website currently has a main one-page site with:
 
 1. Hero
 2. About
@@ -41,6 +41,12 @@ The website is currently a one-page site with:
 5. Contact
 
 Navigation links point to the relevant sections.
+
+There is also a separate running page:
+
+- `running.html`
+
+The running page is for deeper RunWithMily content such as current focus, upcoming races and running bucket list ideas.
 
 Images are stored in:
 
